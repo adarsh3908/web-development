@@ -1,0 +1,14 @@
+[
+    {
+        "image": "img/ss.png",
+        "alt": "img",
+        "height": 400,
+        "title": "Delhi Metro Network Analysis",
+        "tech_stack": "Python(Data-Analysis)",
+        "description": "The Data Analysis of Delhi Metro Network project leverages geospatial visualization using Folium to explore the metro network in Delhi. The project focuses on visual representation, mapping stations, and analyzing connectivity patterns. It provides users with an interactive interface to explore metro routes, identify key station hubs, and understand the network structure through layered maps.\n\nKey features include:\n\nGeospatial Visualization: Interactive maps highlighting metro stations and routes.\nStation Insights: Detailed station data, including line connectivity and station types.\nNetwork Mapping: Visualization of metro lines with color-coded representations.\nThis project enhances urban transportation insights, making metro navigation clearer and more intuitive through data-driven visual mapping.",
+        "link": "https://github.com/adarsh3908/Data-science"
+    }
+
+
+    
+]
